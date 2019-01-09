@@ -3,7 +3,7 @@
   "description": "Barebones asset management system build with react-admin",
   "version": "0.1.0",
   "dependencies": {
-    "firebase": "4.6.2",
+    "firebase": "5.7.2",
     "history": "4.7.2",
     "jss": "^9.8.7",
     "prop-types": "^15.6.2",
