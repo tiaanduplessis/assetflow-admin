@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "dependencies": {
     "firebase": "4.6.2",
-    "history": "4.7.2",
+    "history": "4.10.1",
     "jss": "^9.8.7",
     "prop-types": "^15.6.2",
     "ra-auth-firebase": "^1.0.2",
