@@ -10,7 +10,7 @@
     "ra-auth-firebase": "^1.0.2",
     "ra-data-firebase": "^1.0.6",
     "react": "^16.7.0",
-    "react-admin": "^2.6.0",
+    "react-admin": "^3.5.2",
     "react-admin-date-inputs": "1.0.21",
     "react-dom": "^16.7.0",
     "react-jss": "^8.6.1",
